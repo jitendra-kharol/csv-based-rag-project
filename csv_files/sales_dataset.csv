@@ -1,0 +1,16 @@
+﻿Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode,Order Date,CustomerName,State,City,Year-Month
+B-10,9726,1275,5,Electronics,Electronic Games,UPI,27-06-2023,David Padilla,Florida,Miami,2023-06
+B-20,9730,1275,5,Electronics,Electronic Games,UPI,27-12-2024,Connor Morgan,Illinois,Chicago,2024-12
+B-30,9735,1275,5,Electronics,Electronic Games,UPI,25-07-2021,Robert Stone,New York,Buffalo,2021-07
+B-40,4975,1330,14,Electronics,Printers,UPI,27-06-2023,David Padilla,Florida,Miami,2023-06
+B-50,4980,1330,14,Electronics,Printers,UPI,27-12-2024,Connor Morgan,Illinois,Chicago,2024-12
+B-60,4975,1330,14,Electronics,Printers,UPI,25-07-2021,Robert Stone,New York,Buffalo,2021-07
+B-70,1525,185,12,Office Supplies,Pens,Debit Card,11-05-2024,John Fields,Florida,Orlando,2024-05
+B-80,1525,185,12,Office Supplies,Pens,Debit Card,09-10-2021,Clayton Smith,Florida,Miami,2021-10
+B-90,883,117,10,Electronics,Laptops,EMI,18-11-2022,Richard Kelley,California,Los Angeles,2022-11
+B-100,8127,3551,16,Furniture,Tables,Credit Card,18-11-2022,Richard Kelley,California,Los Angeles,2022-11
+B-101,2516,734,19,Furniture,Chairs,UPI,12-11-2023,Jacqueline Hubbard,New York,New York City,2023-11
+B-102,2975,462,14,Office Supplies,Pens,Credit Card,23-03-2020,Jessica Anderson,New York,New York City,2020-03
+B-103,6851,2812,1,Office Supplies,Markers,Debit Card,04-05-2020,Mary Taylor,Florida,Orlando,2020-05
+B-104,7626,1046,15,Furniture,Sofas,Credit Card,04-05-2020,Mary Taylor,Florida,Orlando,2020-05
+B-105,1023,78,9,Furniture,Tables,UPI,04-05-2020,Mary Taylor,Florida,Orlando,2020-05

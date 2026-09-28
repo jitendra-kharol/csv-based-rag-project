@@ -1,0 +1,34 @@
+# Environment variables
+
+python-dotenv
+
+# LangChain
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# CSV / Data Processing
+
+pandas
+numpy
+
+# Chroma Vector Database
+
+chromadb
+langchain-chroma
+
+# Hugging Face Chat Model & Embeddings
+
+langchain-huggingface
+huggingface_hub
+sentence-transformers
+
+# PyTorch
+
+torch
+
+# Streamlit UI
+
+streamlit
